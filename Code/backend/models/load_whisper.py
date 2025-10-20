@@ -1,0 +1,1 @@
+#Loading and cache Whisper functions

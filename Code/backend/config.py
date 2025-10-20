@@ -1,0 +1,1 @@
+#Global configuration: Redis URL, model path, constants 
